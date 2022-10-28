@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning fullstack development - HTML/CSS/Javascript/Ruby and associated frameworks (React, Rail)
 - 💞️ I’m looking to collaborate on projects that help in automating the boring stuff or creating beautiful web apps.
 - 📫 How to reach me 
+- http://elliottkan.github.io/profile/
 - elliottkan7@gmail.com
 
 <!---
