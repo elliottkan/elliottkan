@@ -49,6 +49,7 @@ hobbies: ["Rock Climbing", "Photography", "Hiking/Camping"]
 <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="45" height="45" />      
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="elasticsearch" width="45" height="45" />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/22247014?s=280&v=4" alt="yarn" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="45" height="45"/>
