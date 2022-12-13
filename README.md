@@ -31,7 +31,8 @@ hobbies: ["Rock Climbing", "Photography", "Hiking/Camping"]
 ---  
 
 <h3> Connect with me! </h3>
-<a href="https://linkedin.com/in/elliottkan target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliott-kan" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/elliottkan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliott-kan" height="35" width="35" /></a>
+<a href="https://medium.com/@elliottk" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="elliott-kan-medium" height="45" width="45" /></a>
 
 ---  
 
