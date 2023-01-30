@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello!%20I'm%20Elliott!&fontSize=70" />
-</p>
 
+
+<p align="center" href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7B917&repeat=false&width=600&lines=Welcome+to+my+GitHub!;I+love+to+turn+ideas+into+reality+through+code;Find+out+more+about+me+on+www.elliottkan.com" alt="Typing SVG" />
+</p>
+  
+  
 ```yaml
 name: Elliott Kan
 located_in: Melbourne, Australia
@@ -23,7 +28,11 @@ currently_learning:
   [
     "React", 
     "Typescript",
-    TDD - RSpec",
+  ]
+what_is_next: 
+  [
+    "Liquid - Shopify", 
+    "NextJS",
   ]
 hobbies: ["Rock Climbing", "Photography", "Hiking/Camping"]
 ```
@@ -31,8 +40,10 @@ hobbies: ["Rock Climbing", "Photography", "Hiking/Camping"]
 ---  
 
 <h3> Connect with me! </h3>
+<a href="https://www.elliottkan.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="elliott-kan-portfolio" height="45" width="45" /></a>
 <a href="https://linkedin.com/in/elliottkan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliott-kan" height="35" width="35" /></a>
 <a href="https://medium.com/@elliottk" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="elliott-kan-medium" height="45" width="45" /></a>
+
 
 ---  
 
