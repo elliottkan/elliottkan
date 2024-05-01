@@ -10,12 +10,26 @@
 ```yaml
 name: Elliott Kan
 located_in: Melbourne, Australia
-current_role: Full Stack Developer
+current_role: Developer at Convert Digital
+techstack: 
+  [
+    "React",
+    "Tailwind",
+    "Cypress",
+    "Ruby / ROR",
+    "PHP", 
+    "Liquid - Shopify"
+  ]
+learning: 
+  [
+    "Typescript", 
+    "NextJS"
+  ]
 education:
   [
     "Le Wagon Fullstack Web Development",
     "Advanced Diploma of Building Design, Architecture & Construction",
-    "Diploma of Building and Construction",
+    "Diploma of Building and Construction"
   ]
 interests: 
   [
@@ -23,16 +37,6 @@ interests:
     "UI/UX",
     "E-Commerce",
     "DevOps"
-  ]
-currently_learning: 
-  [
-    "React", 
-    "Typescript",
-  ]
-what_is_next: 
-  [
-    "Liquid - Shopify", 
-    "NextJS",
   ]
 hobbies: ["Rock Climbing", "Photography", "Hiking/Camping"]
 ```
